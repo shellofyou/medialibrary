@@ -1,4 +1,4 @@
-<?php namespace Vendor\Package;
+<?php namespace Eichcd\MediaLibrary;
 
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 
